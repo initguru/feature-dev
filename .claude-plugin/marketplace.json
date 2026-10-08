@@ -1,0 +1,28 @@
+{
+  "name": "feature-dev",
+  "owner": {
+    "name": "initguru"
+  },
+  "metadata": {
+    "description": "Custom feature-dev plugin with role-based model routing",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "feature-dev",
+      "source": "./",
+      "description": "Comprehensive feature development workflow with specialized agents for codebase exploration, architecture design, and quality review",
+      "version": "1.0.0",
+      "author": {
+        "name": "initguru"
+      },
+      "category": "development",
+      "keywords": [
+        "feature-dev",
+        "agents",
+        "architecture",
+        "review"
+      ]
+    }
+  ]
+}
